@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mStarting process: node[0m
+[0m[[0m[31merror[0m] [0m[0morg.scalajs.jsenv.ExternalJSEnv$NonZeroExitException: Node.js exited with code 1[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.scalajs.jsenv.ExternalJSEnv$AbstractExtRunner.waitForVM(ExternalJSEnv.scala:126)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.scalajs.jsenv.ExternalJSEnv$AsyncExtRunner$$anon$1.$anonfun$run$2(ExternalJSEnv.scala:191)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:12)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.util.Try$.apply(Try.scala:209)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.scalajs.jsenv.ExternalJSEnv$AsyncExtRunner$$anon$1.run(ExternalJSEnv.scala:191)[0m

@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /home/naseem/Documents/SFreely NEW/TesingWithScalaJS/target/scala-2.12/tesingwithscalajs-test-fastopt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 1021319 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 1128458 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasic Linking: 2160940 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Incremental part: 693435 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizing 10950 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizer part: 9787439 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: 10501966 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 508002 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 49316 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 557643 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 900 -- invalidated: 915[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 5015[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter (write output): 3810543 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 6 -- invalidated: 6 -- trees read: 843[0m
